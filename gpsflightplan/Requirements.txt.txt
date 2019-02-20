@@ -1,0 +1,4 @@
+The following modules are required for the code to work as intended:
+	-Python 3.7.0
+	-Pillow 5.4.1
+	-Tkinter 8.6
