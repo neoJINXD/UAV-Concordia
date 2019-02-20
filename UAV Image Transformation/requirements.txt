@@ -1,0 +1,5 @@
+The following are needed to get the exact results as when testing:
+	-Python 3.6.6
+	-OpenCV Version 3.4.3.18
+	-NumPy Version 1.15.2
+	-Tkinter Version 8.6
