@@ -15,6 +15,7 @@ def getPos(array):
     root = Tk()
 
     # Setting up tkinter window
+    root.geometry('1280x720')
     frame = Frame(root, bd=2, relief=SUNKEN)
     frame.grid_rowconfigure(0, weight=1)
     frame.grid_columnconfigure(0, weight=1)
